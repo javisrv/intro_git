@@ -1,2 +1,2 @@
-# intro_git
+# Intro Git
 Ejercicios Git
